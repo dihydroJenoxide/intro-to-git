@@ -1,5 +1,5 @@
 # intro-to-git
-repository to practice git commits and working with git in the terminal 
+A repository to practice git commits and working with git. 
 
 # Resources:
 Learn how to use Git and GitHub with these resources: 
