@@ -2,9 +2,8 @@
 repository to practice git commits and working with git in the terminal 
 
 # Resources:
-Learn how to use Git and GitHub with these two resources: 
+Learn how to use Git and GitHub with these resources: 
+- [Get Started docs](https://docs.github.com/en/get-started/start-your-journey)
+- [GitHub for beginners YouTube playlist](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f)
 - [GitHub Skills site](https://skills.github.com/)
 - [Git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
-
-
-![GitHub Skills](https://github.com/LadyKerr/intro-to-git/assets/47188731/11a1ed10-4d2d-49dc-96e3-56628591fec4)
