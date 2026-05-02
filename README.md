@@ -1,4 +1,4 @@
-# intro-to-git
+# Intro-to-git
 A repository to practice git commits and working with git. 
 
 # Resources:
@@ -8,3 +8,4 @@ Learn how to use Git and GitHub with these resources:
 - [GitHub for beginners YouTube playlist](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f)
 - [Blog articles](https://github.blog/tag/github-for-beginners/) on a host of beginner topics
 - [GitHub Skills site](https://skills.github.com/)
+- [WTD presentation deck](https://canva.link/m7sdmu8sj83uman)
